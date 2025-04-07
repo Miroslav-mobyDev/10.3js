@@ -32,7 +32,7 @@ else{
     console.log(newUser)
 }
 //Задание 6
-localStorage.clear("user");
+localStorage.clear();
 console.log(user);
 //Задание 7
  let arr = [
